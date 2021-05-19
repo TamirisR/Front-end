@@ -1,0 +1,59 @@
+.logo{
+    width: 80px;      
+}
+.fundo{
+    background-color: black;
+}
+#menu{
+    background-color: rgba(39, 38, 38, 0.671);
+    font-size: 20px;
+    font-family: Helvetica,Arial,  sans-serif;
+}
+.fonte{
+    color: rgba(207, 205, 205, 0.431);
+    margin-left: 2rem;
+}
+nav a:hover {
+    color: white !important;
+    text-decoration: none;
+    transition: 1s all;
+}
+nav a:link{
+    text-decoration: none;
+}
+.imagemCaixa{
+    width: 80%;
+    height: 50%;
+    margin: 10%; 
+    display: block;
+}
+
+#final{
+    font-size: 15px;
+    
+}
+ul{
+    list-style: none;
+    text-align: left;
+    color: gray;
+}
+p{
+    color:white;
+}
+footer a:hover {
+    color: white !important;
+    text-decoration: none;
+    transition: 1s all;
+}
+footer a:link{
+    text-decoration: none;
+    color: gray ;
+}
+
+
+
+
+
+
+
+
